@@ -19,7 +19,7 @@ Computer Science student (1st semester) passionate about technology and developm
 ### 🛠️ Technologies I'm learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs" />
 </p>
 
 ---
