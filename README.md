@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 I'm Luiz Henrique</h1>
 
 <p align="left">
-Computer Science student (1st semester) passionate about technology and development.
+Computer Science student (2st semester) passionate about technology and development.
 </p>
 
 ---
