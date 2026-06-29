@@ -8,7 +8,7 @@ Computer Science student (1st semester) passionate about technology and developm
 
 ### 🚀 About me
 
-- 💻 Computer Science student (1st semester)  
+- 💻 Computer Science student (2st semester)  
 - 📚 Currently learning JavaScript, Python and web development  
 - 🎯 Looking for an internship opportunity in technology  
 - 🚀 Focused on improving my skills and building real-world projects
