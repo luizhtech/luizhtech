@@ -32,21 +32,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luizhtech1&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luizhtech1&theme=tokyonight&hide_border=true" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhtech1&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
-</div>
-
-> ⚠️ Replace `luizhtech1` above with your actual GitHub username so the stats load correctly.
-
----
-
 ### 🎯 Goals
 
 - 🌱 Become a confident **Full Stack Developer**
